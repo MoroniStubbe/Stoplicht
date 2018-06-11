@@ -1,0 +1,71 @@
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background-image: url("verkeer/kruising.png");
+
+  #stoplicht1 {
+    position: absolute;
+    width: 20px;
+    height: 40px;
+    left: 713px;
+    top: 505px;
+  }
+
+  #stoplicht2 {
+    position: absolute;
+    width: 20px;
+    height: 40px;
+    left: 516px;
+    top: 325px;
+  }
+
+  #stoplicht3 {
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    left: 496px;
+    top: 503px;
+  }
+
+  #stoplicht4 {
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    left: 712px;
+    top: 345px;
+  }
+
+  #auto1 {
+    position: absolute;
+    width: 40px;
+    height: 80px;
+    left: 660px;
+    top: 685px;
+  }
+
+  #auto2 {
+    position: absolute;
+    width: 40px;
+    height: 80px;
+    left: 550px;
+    top: 0;
+  }
+
+  #auto3 {
+    position: absolute;
+    width: 80px;
+    height: 40px;
+    left: 1470px;
+    top: 375px;
+  }
+
+  #auto4 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 0;
+    top: 435px;
+  }
+}

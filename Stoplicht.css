@@ -1,0 +1,55 @@
+::-webkit-scrollbar {
+  display: none; }
+
+body {
+  background-image: url("verkeer/kruising.png"); }
+  body #stoplicht1 {
+    position: absolute;
+    width: 20px;
+    height: 40px;
+    left: 713px;
+    top: 505px; }
+  body #stoplicht2 {
+    position: absolute;
+    width: 20px;
+    height: 40px;
+    left: 516px;
+    top: 325px; }
+  body #stoplicht3 {
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    left: 496px;
+    top: 503px; }
+  body #stoplicht4 {
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    left: 712px;
+    top: 345px; }
+  body #auto1 {
+    position: absolute;
+    width: 40px;
+    height: 80px;
+    left: 660px;
+    top: 685px; }
+  body #auto2 {
+    position: absolute;
+    width: 40px;
+    height: 80px;
+    left: 550px;
+    top: 0; }
+  body #auto3 {
+    position: absolute;
+    width: 80px;
+    height: 40px;
+    left: 1470px;
+    top: 375px; }
+  body #auto4 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 0;
+    top: 435px; }
+
+/*# sourceMappingURL=Stoplicht.css.map */
